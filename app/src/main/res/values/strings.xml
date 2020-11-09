@@ -1,6 +1,7 @@
 <resources>
-    <string name="app_name">Fundamental Simple Notif</string>
-    <string name="content_title">Content title</string>
-    <string name="content_text">Content text</string>
-    <string name="subtext">Sub text</string>
+    <string name="app_name">Fundamental Simple Notification</string>
+    <string name="content_title">Hello from pending intent!</string>
+    <string name="content_text">Click here to open www.arifikhsanudin.my.id</string>
+    <string name="subtext">Hello world!!</string>
+    <string name="send_notif">Send Notification</string>
 </resources>
